@@ -1,3 +1,4 @@
+//James Bickerstaff Comment 7/12/2021
 void setup() {
   pinMode(13, OUTPUT);    // sets the digital pin 13 as output
 }
